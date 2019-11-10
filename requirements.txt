@@ -2,5 +2,5 @@ pandas
 bqplot
 numpy
 traitlets
-ipywidgets
+ipywidgets >= 7.5.0
 matplotlib
